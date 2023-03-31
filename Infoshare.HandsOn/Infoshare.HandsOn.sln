@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infoshare.HandsOn.OOP", "Infoshare.HandsOn.OOP\Infoshare.HandsOn.OOP.csproj", "{0BB41740-E183-48E7-83F1-A3640C848AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infoshare.HandsOn.Csv", "Infoshare.HandsOn.Csv\Infoshare.HandsOn.Csv.csproj", "{B5013872-B8B4-4612-AC16-43826C749E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB41740-E183-48E7-83F1-A3640C848AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB41740-E183-48E7-83F1-A3640C848AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB41740-E183-48E7-83F1-A3640C848AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB41740-E183-48E7-83F1-A3640C848AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5013872-B8B4-4612-AC16-43826C749E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5013872-B8B4-4612-AC16-43826C749E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5013872-B8B4-4612-AC16-43826C749E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5013872-B8B4-4612-AC16-43826C749E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B2854BB-1AE3-4DAD-BA82-D85C163C28AC}
+	EndGlobalSection
+EndGlobal

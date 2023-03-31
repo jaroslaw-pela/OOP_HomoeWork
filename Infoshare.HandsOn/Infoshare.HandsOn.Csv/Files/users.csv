@@ -1,0 +1,4 @@
+Id,Name,Surname,Gender,Age,IsVip,RegistrationDate
+1,Jan,Kowalski,male,21,no,2022-01-03 12:01:05
+2,Maria,Malinowska,female,21,no,2022-01-03 18:01:25
+3,Grzegoz,Adamski,male,47,yes,2023-03-19 03:11:35
